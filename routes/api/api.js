@@ -20,7 +20,7 @@ router.get("/api/workouts", (req, res) => {
     });
 });
 
-//Add an exercise
+//Add an exercise to an existing workout
 router.put("/api/workouts/:id", (req, res) => {
 
     db.Workout.findOneAndUpdate(
