@@ -27,9 +27,9 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 
 # Mock_Ups
 
-![fitness_tracker](public/assets/mockup.png)
+![fitness_tracker](public/assets/images/mockup.png)
 
-![fitness_tracker](public/assets/mockup2.png)
+![fitness_tracker](public/assets/images/mockup2.png)
 
 
 ## Live_Deployment
